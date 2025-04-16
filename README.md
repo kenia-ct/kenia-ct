@@ -33,7 +33,7 @@
 
 <p aling= "center">
   <a href ="https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=html,css,cs,dotnet,js,mysql,php,ps"/>
+    <img src = "https://skillicons.dev/icons?i=html,css,cs,js,react,dotnet,mysql,php,tailwind,git,github,ps,visualstudio,vscode,windows"/>
   </a>
 </p>
 
