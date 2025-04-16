@@ -20,7 +20,7 @@
 <p align="left"> Hola! mi nombre es Kenia
 
   
-- 🔭 Actualmente soy estudiate de preparatoria📚.
+- 🔭 Actualmente soy estudiante de preparatoria📚.
   
 - 💻 Mis conocimientos incluyen HTML, CSS, JavaScript ES6+, .NET con C#, MySQL, PHP y React, herramientas que uso para crear soluciones innovadoras y funcionales.
 
